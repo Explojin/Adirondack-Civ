@@ -3,7 +3,7 @@
 		"name": "The Adirondack Park",
 		"leaderName": "Noah John Rondeau",
 		"adjective": ["adirondack"],
-		"startBias": ["Snow"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Forever Wild",
