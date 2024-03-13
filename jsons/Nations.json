@@ -27,6 +27,8 @@
 		"afterPeace": "I'm glad we can get back to more important matters.",
 		"tradeRequest": "I believe this agreement will be mutually beneficial.",
 
+		"uniqueName" : "Forever Wild",
+		"uniques" : "All units move through Forest Tiles in friendly territory as if they have roads.",
 		"outerColor": [94, 44, 23],
 		"innerColor": [252, 219, 3],
 		"cities": ["Saranac Lake","Lake Placid","Tupper Lake","Old Forge","Long Lake","Speculator","Blue Mountain Lake","Raquette Lake","Thendara",
