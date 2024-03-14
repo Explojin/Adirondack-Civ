@@ -1,5 +1,4 @@
-# Unciv-mod-example
+# Adirondack State Park civ
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+Just a niche civ mod for the Adirondack State Park in upstate NY. Wanted to mess around with mods and the park is my go to vacation spot in the summers. 
+Was trying to think of somewhere that I didn't have to look up a lot or design my own stuff. 
