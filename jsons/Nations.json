@@ -28,6 +28,8 @@
 		"tradeRequest": "I believe this agreement will be mutually beneficial.",
 
 		"uniqueName" : "Forever Wild",
+		"uniques" : ["[+2 Food] from every [Deer]"],
+		
 		"outerColor": [94, 44, 23],
 		"innerColor": [252, 219, 3],
 		"cities": ["Saranac Lake","Lake Placid","Tupper Lake","Old Forge","Long Lake","Speculator","Blue Mountain Lake","Raquette Lake","Thendara",
