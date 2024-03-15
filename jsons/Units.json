@@ -8,8 +8,6 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"cost": 70
 	}
-]
-[
 	{
 		"name" : "Canoe",
 		"unitType" : "Melee Water",
@@ -23,8 +21,6 @@
 		"upgradesTo": "Caravel",
 		"attackSound": "nonmetalhit"
 	}
-]
-[
 	{
 		"name" : "War Canoe",
 		"unitType" : "Melee Water",
