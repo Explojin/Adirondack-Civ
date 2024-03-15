@@ -9,3 +9,35 @@
 		"cost": 70
 	}
 ]
+[
+	{
+		"name" : "Canoe",
+		"unitType" : "Melee Water",
+		"uniqueTo" : "The Adirondack Park",
+		"replaces" : "Trireme"
+		"movement": 4,
+		"strength": 10,
+		"cost": 45,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "Never appears as a Barbarian unit"],
+		"upgradesTo": "Caravel",
+		"attackSound": "nonmetalhit"
+	}
+]
+[
+	{
+		"name" : "War Canoe",
+		"unitType" : "Melee Water",
+		"uniqueTo" : "The Adirondack Park",
+		"replaces" : "Caravel", 
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Astronomy",
+		"upgradesTo": "Ironclad",
+		"obsoleteTech": "Combustion",
+		"uniques": ["[+1] Sight", "May withdraw before melee ([80]%)"],
+		"hurryCostModifier": 30,
+		"attackSound": "cannon"
+	}
+]
